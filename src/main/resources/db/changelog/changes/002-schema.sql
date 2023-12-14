@@ -1,0 +1,2 @@
+ALTER TABLE employer
+ADD COLUMN IF NOT EXISTS employer_age INT;
